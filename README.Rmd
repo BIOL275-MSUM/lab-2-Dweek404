@@ -1,11 +1,11 @@
 ---
 title: "Lab 2: Introduction to RStudio"
-author: "___"
+author: "Dontae Johnson"
 date: "`r format(Sys.Date())`"
 output: github_document
 ---
 
-> INSTRUCTIONS: REMOVE THIS LINE AND REPLACE ____ WITH YOUR OWN TEXT
+> INSTRUCTIONS: REMOVE THIS LINE AND REPLACE ;) WITH YOUR OWN TEXT
 
 Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at MSUM.
 
@@ -13,8 +13,8 @@ Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at MSUM.
 
 The objectives of this lab are:
 
-- ___
-- ___
+- To get familiar and comfortable with all of the tabs within R studio
+- To get familiar and comfortable with running common data analysis code 
 
 ## Repository contents
 
